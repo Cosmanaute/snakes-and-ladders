@@ -29,7 +29,7 @@ impl Board {
                     print!(" {} ", col);
                 }
             }
-            println!("");
+            print!("\n\n");
         }
     }
 }
